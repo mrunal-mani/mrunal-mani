@@ -45,13 +45,13 @@ I am a dedicated **Buisness and Data Analyst** with a passion for transforming r
 
 ---
 
-## My Approach
+## 💡 My Approach 
 
 As a data analyst, I focus on the following principles:
-- **Clean Data**: Ensuring data quality is at the heart of my work.
-- **Actionable Insights**: My goal is to provide insights that lead to actionable business decisions.
-- **Storytelling with Data**: I create visualizations that help people understand complex data at a glance.
-- **Continuous Learning**: I am always exploring new tools, technologies, and techniques to improve my skill set.
+- **Clean Data** 🧹: Ensuring data quality is at the heart of my work.
+- **Actionable Insights** 📊: My goal is to provide insights that lead to actionable business decisions.
+- **Storytelling with Data** 📖: I create visualizations that help people understand complex data at a glance.
+- **Continuous Learning** 📚: I am always exploring new tools, technologies, and techniques to improve my skill set.
 
 ---
 
