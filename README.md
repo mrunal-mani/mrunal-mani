@@ -2,7 +2,7 @@
 
 Hello, Data Enthusiasts! 👋
 
-A dedicated **Buisness and Data Analyst** with a passion for transforming raw data into meaningful insights. With expertise in data cleaning, analysis, visualization, and reporting, I help businesses make data-driven decisions that lead to growth and innovation. I work with a variety of data tools and programming languages to unlock the power of data and drive performance.
+I am a dedicated **Buisness and Data Analyst** with a passion for transforming raw data into meaningful insights. With expertise in data cleaning, analysis, visualization, and reporting, I help businesses make data-driven decisions that lead to growth and innovation. I work with a variety of data tools and programming languages to unlock the power of data and drive performance.
 
 🔭 **Experience**: 3+ years in analyzing large datasets, generating insights, and presenting data using tools like **Excel**, **SQL**, **Power BI**, **Tableau**, and **Python**.
 
@@ -63,7 +63,7 @@ If you are looking for a skilled data analyst to uncover insights from your data
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Mrunal Mani](https://www.linkedin.com/in/mrunalvitnerkar/)
+- **LinkedIn**: [Mrunal Vitnerkar](https://www.linkedin.com/in/mrunalvitnerkar/)
 - **Email**: [mrunalsims2@gmail.com](mailto:mrunalsims2@gmail.com)
 
   Let’s connect and unlock the power of data together! 📊✨
