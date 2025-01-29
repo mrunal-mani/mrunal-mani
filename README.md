@@ -12,33 +12,36 @@ I’m **Mrunal Mani**, a dedicated **Buisness and Data Analyst** with a passion 
 
 ## 🚀 Tech Stack & Expertise
 
-**Data Analysis Tools**:  
-- Microsoft Excel (Advanced)  
-- SQL (MySQL, PostgreSQL)  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- R  
-
-**Data Visualization**:  
-- Power BI  
-- Tableau  
-- Excel Dashboards  
-
-**Data Warehousing**:  
-- SQL Server  
-- Google BigQuery  
-
-**Cloud Platforms**:  
-- AWS (Redshift, S3)  
-- Google Cloud (BigQuery)  
-
-**Programming Languages**:  
-- Python  
-- SQL  
-- R  
-
-**Business Intelligence**:  
-- Power BI  
-- Tableau  
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Python, SQL, R, JavaScript</td>
+  </tr>
+  <tr>
+    <td>Data Analysis</td>
+    <td>Excel, Pandas, NumPy, SciPy</td>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td>Power BI, Tableau, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td>Cloud Services</td>
+    <td>AWS, Google Cloud</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Jupyter, Git, GitHub, VS Code, Tableau Desktop</td>
+  </tr>
+</table> 
 
 ---
 
