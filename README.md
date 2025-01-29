@@ -2,7 +2,7 @@
 
 Hello, Data Enthusiasts! 👋
 
-I’m **Mrunal Mani**, a dedicated **Buisness and Data Analyst** with a passion for transforming raw data into meaningful insights. With expertise in data cleaning, analysis, visualization, and reporting, I help businesses make data-driven decisions that lead to growth and innovation. I work with a variety of data tools and programming languages to unlock the power of data and drive performance.
+A dedicated **Buisness and Data Analyst** with a passion for transforming raw data into meaningful insights. With expertise in data cleaning, analysis, visualization, and reporting, I help businesses make data-driven decisions that lead to growth and innovation. I work with a variety of data tools and programming languages to unlock the power of data and drive performance.
 
 🔭 **Experience**: 3+ years in analyzing large datasets, generating insights, and presenting data using tools like **Excel**, **SQL**, **Power BI**, **Tableau**, and **Python**.
 
