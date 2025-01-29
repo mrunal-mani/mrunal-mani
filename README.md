@@ -45,28 +45,13 @@ I’m **Mrunal Mani**, a dedicated **Buisness and Data Analyst** with a passion 
 
 ---
 
-## 🔧 Tools & Technologies
+## My Approach
 
-**Data Analysis & Programming**:  
-- SQL  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- R  
-- Jupyter Notebooks  
-- Excel  
-
-**Visualization**:  
-- Tableau  
-- Power BI  
-- Excel Dashboards  
-
-**Cloud & Data Warehousing**:  
-- Google Cloud (BigQuery)  
-- AWS (Redshift, S3)  
-
-**Version Control & Tools**:  
-- Git  
-- GitHub  
-- Jira  
+As a data analyst, I focus on the following principles:
+- **Clean Data**: Ensuring data quality is at the heart of my work.
+- **Actionable Insights**: My goal is to provide insights that lead to actionable business decisions.
+- **Storytelling with Data**: I create visualizations that help people understand complex data at a glance.
+- **Continuous Learning**: I am always exploring new tools, technologies, and techniques to improve my skill set.
 
 ---
 
@@ -81,7 +66,8 @@ If you are looking for a skilled data analyst to uncover insights from your data
 - **LinkedIn**: [Mrunal Mani](https://www.linkedin.com/in/mrunalvitnerkar/)
 - **Email**: [mrunalsims2@gmail.com](mailto:mrunalsims2@gmail.com)
 
+  Let’s connect and unlock the power of data together! 📊✨
+
 ---
 
-**Thank you for visiting my Data Analyst portfolio!**  
-Let’s connect and unlock the power of data together! 📊✨
+**Thanks for visiting my portfolio!**
